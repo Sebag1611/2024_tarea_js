@@ -1,0 +1,17 @@
+{
+  "name": "eval2_pfe-2023",
+  "version": "0.0.1",
+  "description": "Tarea para refrescar js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "html",
+    "js",
+    "css"
+  ],
+  "author": "yopo",
+  "license": "MIT"
+}
