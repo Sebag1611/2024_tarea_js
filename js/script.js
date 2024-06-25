@@ -16,7 +16,7 @@ function procesarFormulario(evento) {
         resultado.innerHTML = `
         <div class="col-12">
             <div class="alert alert-primary" id="result" role="alert" >
-                Delgadez o bajo peso
+               ${usuario}, andai desnutrio pelucho culiao
             </div>
         </div>
             `
@@ -24,7 +24,7 @@ function procesarFormulario(evento) {
         resultado.innerHTML = `
         <div class="col-12">
             <div class="alert alert-primary" id="result" role="alert" >
-                normal
+                ${usuario} estas normal
             </div>
         </div>
         `
@@ -32,7 +32,7 @@ function procesarFormulario(evento) {
         resultado.innerHTML = `
             <div class="col-12">
                 <div class="alert alert-primary" id="result" role="alert" >
-                    sobrepeso
+                    ${usuario} estas sobrepeso
                 </div>
             </div>
             `
@@ -40,7 +40,7 @@ function procesarFormulario(evento) {
         resultado.innerHTML = `
             <div class="col-12">
                 <div class="alert alert-primary" id="result" role="alert" >
-                    obesidad
+                    ${usuario}tienes obesidad
                 </div>
             </div>
             `
